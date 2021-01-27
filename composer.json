@@ -1,0 +1,17 @@
+{
+    "name": "schauindieleere/summon_trpo",
+    "type": "library",
+    "authors": [
+        {
+            "name": "schauindieleere",
+            "email": "xx.maxion@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "poepnko\\": ""
+        }
+    }
+}
