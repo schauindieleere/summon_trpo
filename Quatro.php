@@ -13,7 +13,7 @@ Class Quatro extends Line implements EquationInterface
         return $DIS;
     }
 
-    public function solve($a, $b, $c)
+    public function solve(float $a, float $b, float $c): array
     {
 
         $disc = $this->discrim($a, $b, $c);
