@@ -4,6 +4,7 @@ namespace poepnko;
 
 use core\LogAbstract;
 use core\LogInterface;
+use DateTime;
 
 class MyLog extends LogAbstract implements LogInterface
 {
